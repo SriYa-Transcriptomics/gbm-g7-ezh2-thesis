@@ -29,7 +29,7 @@ FASTQC (Quality Check) -> HISAT2 (Read Alignment) -> Transcript Quantification -
 - Cell proliferation
 - Tumour progression pathways
 ## Project Status
-Completed MSc Thesis Project
+Completed MSc Thesis Project (Dec 2025)
 ## Future Directions
 Future work may involve:
 - Comparative analysis with additional GBM stem cell datasets
