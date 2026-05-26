@@ -11,17 +11,7 @@ EZH2, a catalytic subunit of the Polycomb Repressive Complex 2 (PRC2), plays a c
 - Perform pathway and gene ontology enrichment analysis.
 - Explore epigenetic and proliferation-associated molecular mechanisms in glioblastoma.
 ## Computational Workflow
-FASTQC (Quality Check)
-↓
-HISAT2 (Read Alignment) 
-↓
-Transcript Quantification
-↓
-Differential Expression Analysis
-↓
-Gene Ontology Enrichment
-↓
-Biological Interpretation
+FASTQC (Quality Check) -> HISAT2 (Read Alignment) -> Transcript Quantification -> Differential Expression Analysis -> Gene Ontology Enrichment -> Biological Interpretation
 ## Tools and Platforms
 - Galaxy Europe
 - RNA-seq analysis workflows
@@ -38,7 +28,8 @@ Biological Interpretation
 - Glioblastoma stemness
 - Cell proliferation
 - Tumour progression pathways
-## Project Status : Completed MSc Thesis Project
+## Project Status
+Completed MSc Thesis Project
 ## Future Directions
 Future work may involve:
 - Comparative analysis with additional GBM stem cell datasets
