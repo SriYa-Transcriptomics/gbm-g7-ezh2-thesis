@@ -1,0 +1,17 @@
+Abstract: 
+Among the most prevalent brain tumors, Glioblastoma Multiforme (GBM) is the most malignant 
+tumor. Currently, the tumor is treated with various traditional methods. The usage of epigenetic 
+inhibitors that has a crucial role in the histone methylation process, possess the ability to inhibit 
+the tumor suppressor genes in most of the cancer tissues. It has been a matter of great interest for 
+researchers in treating Glioblastomas. This approach was taken as Chemotherapies weren’t fruitful. 
+The project focuses on three epigenetic EZH2 inhibitor drugs. EZH2 inhibitors focuses on histone 
+methylation that causes transcriptional repression. Based on the prior research conducted by 
+Mishra and team, (Mishra et al., 2020) where EPZ 6438 (EZH2 inhibitor) was utilized to treat 
+GBM, the three components (EPZ 3468, UNC 1999 and GSK 343) were selected for analysis. In 
+the previous invitro analysis, the components had proved to inhibit cell proliferation and cause cell 
+loss in GBM cell lines. As nearly 80-90% cells were lost as days passed. The project focuses on finding 
+the probable cause of loss of cells by identifying the significant genes. The concluding hypothesis of the 
+project is that “significant genes in the components have biological functions either to differentiate 
+as neural cell types or to regulate the protein synthesis pathways to cause the cell loss in GBM cell 
+lines”. 
+Keywords: Methylation, Inhibition, Cell proliferation, Cell differentiation
